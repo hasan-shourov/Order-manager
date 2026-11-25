@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.log
+npm-debug.log*
+.DS_Store
+.vscode/
+coverage/
+firebase-service-account*.json
